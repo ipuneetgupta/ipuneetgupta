@@ -11,17 +11,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ipuneetgupta](https://github.com/ipuneetgupta)
 
-- 📝 I regularly write articles on [Medium - @pugupta @impuneetgupta](Medium - @pugupta @impuneetgupta)
+- 📝 I regularly write articles on [Medium - @pugupta @impuneetgupta]
 
 - 💬 Ask me about **Python, K8s, Devops, LLM(Langchain,VertexAi))**
 
 - 📫 How to reach me **punitgupta1811@gmail.com**
 
-- ⚡ Blog Post **https://medium.com/@pugupta/garuda-journey-towards-unified-operator-for-observability-platform-part-1-82b453a1111a**
-
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+**https://medium.com/@pugupta/garuda-journey-towards-unified-operator-for-observability-platform-part-1-82b453a1111a**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
