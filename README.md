@@ -18,7 +18,7 @@
 - 📫 How to reach me **punitgupta1811@gmail.com**
 
 ### Blogs posts
-**https://medium.com/@pugupta/garuda-journey-towards-unified-operator-for-observability-platform-part-1-82b453a1111a**
+- **https://medium.com/@pugupta/garuda-journey-towards-unified-operator-for-observability-platform-part-1-82b453a1111a**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
