@@ -19,6 +19,10 @@
 
 ### Blogs posts
 - **https://medium.com/@pugupta/garuda-journey-towards-unified-operator-for-observability-platform-part-1-82b453a1111a**
+- **https://live.paloaltonetworks.com/t5/engineering-blogs/empowering-garuda-unveiling-a-unified-api-layer-with-cardinality/ba-p/576708**
+- **https://live.paloaltonetworks.com/t5/community-blogs/unlocking-service-reliability-exploring-slo-as-a-service-sloaas/ba-p/577816**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
